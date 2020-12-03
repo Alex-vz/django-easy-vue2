@@ -34,9 +34,9 @@ https://github.com/Alex-vz/django-easy-vue2
 Features
 ========
 
-* supports to mode of integration: with or without of using WebPack.
+* two mode of integration: with or without of using WebPack.
 
-* Django Template tag for include Vue.js template and form Django template similar to .vue file.
+* Django Template tag for include Vue.js template and forms Django template similar to .vue file.
 
 * Django Template tag for include libs with automatic switching between minimized and development version according to DEBUG state.
 
@@ -93,6 +93,7 @@ Contact
 License
 =======
 
-MIT license.
+MIT License. 
 
+Copyright (c) 2020 Alex V Zobov (alex_ins@mail.ru), Russia, Kresnoyarsk.
 
