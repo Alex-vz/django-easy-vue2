@@ -4,8 +4,8 @@ Version for Python 2.7 &amp; Django 1.9
 
 |licence|
 
-.. |licence| image:: https://img.shields.io/pypi/l/python-dateutil.svg?style=flat-square
-    :target: https://pypi.org/project/python-dateutil/
+.. |licence| image:: https://img.shields.io/badge/license-MIT-green.svg
+    :target: https://github.com/Alex-vz/django-easy-vue2
     :alt: licence
 
 
